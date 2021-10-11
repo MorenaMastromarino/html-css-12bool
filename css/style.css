@@ -1,0 +1,17 @@
+.box, .box-nested {
+  min-height: 50px;
+  color: white;
+  background-color: #006CFA;
+  padding: 15px;
+  text-align: center;
+  border: 1px solid white;
+}
+
+.box-nested {
+  background-color: #00E165;
+  border: 1px solid #006CFA;
+}
+
+.separator{
+  height: 20px;
+}
